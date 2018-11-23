@@ -1,0 +1,12 @@
+.form-control.search {
+    border-radius: 0;
+    box-shadow: none;
+    border-color: #ffffff;
+    border-bottom-color: black;
+}
+
+.btn-default.search {
+    background-color: #ffffff;
+    color: #444;
+    border-color: #fff;
+}
