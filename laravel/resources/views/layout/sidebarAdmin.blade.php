@@ -5,7 +5,7 @@
       <ul class="sidebar-menu" data-widget="tree">
         <li class="active treeview">
           <a href="#">
-            <i class="fa xfa-folder"></i> <span>Penyimpanan</span>
+            <i class="fa fa-folder"></i> <span>Penyimpanan</span>
           </a>
         </li>
         <li class="treeview">

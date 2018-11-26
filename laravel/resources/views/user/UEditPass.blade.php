@@ -8,7 +8,8 @@
     <div class="box">
         <div class="box-header">
 
-        <h2>Ubah Password</h2>
+        <h2 class="custom">Ubah Password</h2>
+        <hr class=" custom">
 
         <div class="row">
             <div class="col-md-12">
@@ -41,8 +42,8 @@
                 </div>
 
                 <div class="modal-footer">
-                <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Cancel</button>
-                <button type="button" class="btn btn-primary">Save</button>
+                <button type="button" class="btn btn-danger pull-left custom" data-dismiss="modal">Batal</button>
+                <button type="button" class="btn btn-primary logon custom">Ubah</button>
                 </div>
                 </div>
                 </div>

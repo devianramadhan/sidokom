@@ -1,3 +1,4 @@
+/* Search */
 .form-control.search {
     border-radius: 0;
     box-shadow: none;
@@ -9,4 +10,136 @@
     background-color: #ffffff;
     color: #444;
     border-color: #fff;
+}
+/* /Search */
+
+/* Navbar green */
+.skin-blue .main-header .logo.greener {
+    background-color: #6cd152 !important;
+}
+.skin-blue .main-header .navbar.greener {
+    background-color: #6cd152 !important;
+}
+/* /Navbar Green */
+
+/* Navbar for Login */
+
+.skin-blue .main-header .logo.logon {
+    background-color: #fff !important;
+}
+.skin-blue .main-header .navbar.logon {
+    background-color: #fff !important;
+}
+/* Navbar for Login */
+
+/* Active Sidebar */
+.skin-blue .sidebar-menu > li.active > a {
+    border-left-color: #6cd152 !important;
+}
+/* Sidebar color style */
+.skin-blue .wrapper,
+.skin-blue .main-sidebar,
+.skin-blue .left-side {
+    background-color: #666666 !important;
+}
+/* hover in sidebar */
+.skin-blue .sidebar-menu > li:hover > a,
+.skin-blue .sidebar-menu > li.active > a,
+.skin-blue .sidebar-menu > li.menu-open > a {
+    background: #444a44 !important;
+}
+
+.pagination > .active > a,
+.pagination > .active > a:focus,
+.pagination > .active > a:hover,
+.pagination > .active > span,
+.pagination > .active > span:focus,
+.pagination > .active > span:hover {
+    background-color: #156900 !important;
+    border-color: #156900 !important;
+}
+
+.login-page,
+.register-page .greener {
+    background: #6cd152;
+}
+
+.login-box-body,
+.register-box-body .logon {
+    background: #666666;
+    padding: 20px;
+    border-top: 0;
+    color: #fff;
+    border-radius: 20px;
+}
+
+/* Navbar in Login Page */
+
+.navbar.logon {
+    position: relative;
+    text-align: center;
+    padding: 15px;
+}
+
+/* form control for login page */
+.form-control.logon {
+    border-radius: 8px !important;
+    box-shadow: none;
+    border-color: #666666;
+}
+
+/* button for login  */
+
+.btn.btn-flat.logon {
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    border-width: 1px;
+    border-radius: 10px;
+}
+
+.btn-primary.logon {
+    background-color: #6CD152;
+    border-color: #6CD152;
+}
+
+.btn.custom {
+    width: 20%;
+}
+
+/* login box */
+
+.login-box, .register-box.logon {
+    width: 500px;
+    margin: 7% auto;
+}
+
+/* Hover */
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+    background-color: #61bc4a;
+}
+
+/* box */
+.box{
+    border-radius: 0px;
+    border-top: 0px !important;
+    box-shadow: 0 0px 0px !important;
+}
+
+/* h Custom Section */
+.h2, h2.custom {
+    text-align: center !important;
+}
+
+hr.custom {
+    border-top: 2px solid #666 !important;
+    width: 100px !important;
+}
+
+/* Button */
+.btn-success.custom {
+    background-color: #26a69a !important;
+    border-color: #26a69a !important;
+    border-radius: 50px !important;
 }
