@@ -41,8 +41,8 @@
                 </div>
 
                 <div class="modal-footer">
-                <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Cancel</button>
-                <button type="button" class="btn btn-primary">Save</button>
+                <button type="button" class="btn btn-danger pull-left custom" data-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-primary logon custom">Save</button>
                 </div>
                 </div>
                 </div>
